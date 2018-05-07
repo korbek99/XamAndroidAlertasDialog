@@ -1,0 +1,4 @@
+XamAndroidAlertasDialog.MainActivity, XamAndroidAlertasDialog;md52b0820c91a0936a60225f7d64c16b852.MainActivity
+XamAndroidAlertasDialog.MainActivity, XamAndroidAlertasDialog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52b0820c91a0936a60225f7d64c16b852.MainActivity
+XamAndroidAlertasDialog.MainActivity;md52b0820c91a0936a60225f7d64c16b852.MainActivity
+xamandroidalertasdialog.MainActivity;md52b0820c91a0936a60225f7d64c16b852.MainActivity
